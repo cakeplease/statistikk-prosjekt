@@ -1,2 +1,2 @@
-# statistikk-prosjekt
+# Statistikk-prosjekt
 Prosjekt i statistikk 
