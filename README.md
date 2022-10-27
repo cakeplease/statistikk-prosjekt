@@ -1,3 +1,2 @@
 # Statistikk-Prosjekt
-Prosjekt i statistikk 
-# Statestikk i prosjekt
+Prosjekt i statistikk
